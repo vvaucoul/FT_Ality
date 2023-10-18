@@ -1,0 +1,17 @@
+q-Run
+down-Hide
+w-Scream
+left-Left
+right-Right
+e-UseWeapon
+a-ThrowObject
+up-Up
+s-[Slap]
+d-[Punch]
+z-[Kick]
+x-[Stab]
+---
+Jason/VoorheesSlash/[Stab],[Stab]
+Jason/ChainsawMassacre/[Stab],[Kick]
+FreddyKrueger/ElmStreetNightmare/[Punch],[Slap]
+MichaelMyers/HalloweenStab/[Stab],[Stab],[Kick]

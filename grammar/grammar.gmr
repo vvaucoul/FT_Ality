@@ -1,0 +1,17 @@
+q-Block
+down-Down
+w-Flip Stance
+left-Left
+right-Right
+e-Tag
+a-Throw
+up-Up
+s-[BK]
+d-[BP]
+z-[FK]
+x-[FP]
+---
+Scorpion/Uppercut/[BP],[BP]
+Scorpion/Spear/Throw,Throw,Throw,[BP]
+Scorpion/Teleport Punch/[BP],[BP],[BP],[BK]
+Sub-Zero/Slide/[FK],[FK],[FP]
